@@ -1,5 +1,4 @@
-# AIML-Task-3
-# 🫀 Task 3: Predicting Heart Disease with Linear Regression
+# 🫀 Predicting Heart Disease with Linear Regression
 
 ## 👋 Hi there!
 This is my submission for **Task 3** of the AI & ML Internship at **Elevate Labs**. 
